@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -25,8 +24,8 @@ jobs:
           theme: auto
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          USERNAME: "007ash"  # Explicitly set your GitHub username
-
+          USERNAME: "007ash"  
+          
       - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
