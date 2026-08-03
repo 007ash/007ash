@@ -1,0 +1,40 @@
+name: Generate 3D Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          renderer: both
+          theme: auto
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: "MdIbuA"  # Explicitly set your GitHub username
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/MdIbuA/MdIbuA.git
+
+      - name: Commit and Push
+        run: |
+          git add -A
+          git commit -m "Updated 3D Activity Graph" || echo "No changes to commit"
+          git push origin main
