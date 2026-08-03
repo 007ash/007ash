@@ -64,5 +64,3 @@ Welcome to my GitHub! I am a final-year Computer Science and Engineering student
 </p>
 
 --- 
-
-⭐ *Fun Fact: Whether it's debugging a 36-hour hackathon project or mapping out the carbon footprint of a commute, I love building tech that bridges the digital and physical worlds.*
