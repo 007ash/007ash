@@ -1,4 +1,4 @@
-# Hi there, I'm Ashwanth Senthilkumar 
+# Hi there, I'm Ashwanth Senthil Kumar 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00E0B8&vCenter=true&width=1000&lines=AI/ML+%7C+Full-Stack+Engineering;Building+Reliable+and+Scalable+Software+Systems;From+Enterprise+Workflows+to+Production+Deployments;Machine+Learning+%7C+MLOps;Turning+Ideas+Into+Real-World+Solutions)
 
 Welcome to my GitHub! I am a final-year Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I am passionate about developing full-stack application Seeking a software engineering internship or entry-level SDE/ML role where proven ability to deliver production-quality, AI-driven solutions.
