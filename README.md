@@ -38,9 +38,8 @@ Welcome to my GitHub! I am a final-year Computer Science and Engineering student
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=007ash&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=A8FF60" alt="GitHub Streak"/>
 </p>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=007ash&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=007ash&theme=radium" alt="WakaTime Stats" />
 </div>
 
 ---
