@@ -39,10 +39,6 @@ Welcome to my GitHub! I am a final-year Computer Science and Engineering student
   <img src="https://streak-stats.demolab.com/?user=007ash&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=A8FF60" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007ash&theme=tokyonight&hide_border=true&bg_color=0D1117&color=37BCF7&line=A8FF60&point=ffffff" alt="Activity Graph"/>
-</p>
-
 ---
 
 ### 📫 Let's Connect!
