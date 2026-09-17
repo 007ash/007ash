@@ -1,7 +1,9 @@
 # Hi there, I'm Ashwanth Senthil Kumar 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00E0B8&vCenter=true&width=1000&lines=AI/ML+%7C+Full-Stack+Engineering;Building+Reliable+and+Scalable+Software+Systems;From+Enterprise+Workflows+to+Production+Deployments;Machine+Learning+%7C+MLOps;Turning+Ideas+Into+Real-World+Solutions)
 
-Welcome to my GitHub! I am a final-year Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I am passionate about developing full-stack application Seeking a software engineering internship or entry-level SDE/ML role where proven ability to deliver production-quality, AI-driven solutions.
+I build machine learning systems that go from raw data to something people actually use — forecasting models, recommendation engines, and applied AI tools. Final-year CS (AI/ML) student, currently looking for remote SDE/ML roles and freelance ML projects.
+
+I like problems where the answer isn't obvious from the data — that's usually where the interesting work is.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=007ash&color=1f8ef1&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
@@ -13,12 +15,16 @@ Welcome to my GitHub! I am a final-year Computer Science and Engineering student
 
 ### 🚀 Tech Arsenal
 <p align="center">
+  Languages & Core : 
   <img src="https://skillicons.dev/icons?i=python,java,c,r,html,css,js,react&theme=dark" />
   <br /><br />
+  ML/DL : 
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,mysql,mongodb,postgresql&theme=dark" />
   <br><br>
+  Web/Full-Stack
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" />
   <br><br>
+  Tools:
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,gcp,aws&theme=dark" />
 </p>
 
