@@ -64,7 +64,7 @@ I like problems where the answer isn't obvious from the data — that's usually 
 </p>
 
 I'm open to **remote roles** and **freelance ML/full-stack work**. If you've got a problem involving messy data, forecasting, or building something ML-powered end to end, I want to hear about it.
-<br />
+<br/> <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanth-senthilkumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6ashwanth007@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/007ash/)
