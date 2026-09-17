@@ -17,14 +17,11 @@ I like problems where the answer isn't obvious from the data — that's usually 
 
 <p align="center">
   <strong>Languages & Core</strong><br />
-  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,python,r,react&theme=dark" /><br /><br />
-
+  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,python,r,react&theme=dark" /><br />
   <strong>Web & Full-Stack</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,mysql,mongodb,postgresql&theme=dark" /><br /><br />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,mysql,mongodb,postgresql&theme=dark" /><br/>
   <strong>ML / DL</strong><br />
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&theme=dark" /><br /><br />
-
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&theme=dark" /><br />
   <strong>Tools & DevOps</strong><br />
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,gcp,aws&theme=dark" />
 </p>
