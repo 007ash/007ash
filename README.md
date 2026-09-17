@@ -28,6 +28,10 @@ I like problems where the answer isn't obvious from the data — that's usually 
 
 ---
 
+### Projects I'm proud of
+[![Recipe Archaeologist](https://github-readme-stats.vercel.app/api/pin/?username=007ash&repo=Recipe-Archaeologist&theme=tokyonight&hide_border=true)](https://github.com/007ash/Recipe-Archaeologist)
+[![Electricity Demand Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=007ash&repo=Electricity-Demand-Forecasting&theme=tokyonight&hide_border=true)](https://github.com/007ash/Electricity-Demand-Forecasting)
+
 ### 🧪 Currently Exploring 
 
 - Applied ML and explainability (SHAP, LIME) — I want to understand *why* a model says what it says, not just that it's accurate
@@ -47,7 +51,7 @@ I like problems where the answer isn't obvious from the data — that's usually 
 ---
 
 ### 📫 Let's Connect!
-
+![trophies](https://github-profile-trophy.vercel.app/?username=007ash&theme=tokyonight&no-frame=true&row=1&column=6)
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwanth-senthilkumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,9 +69,9 @@ I like problems where the answer isn't obvious from the data — that's usually 
 </p>
 
 I'm open to **remote roles** and **freelance ML/full-stack work**. If you've got a problem involving messy data, forecasting, or building something ML-powered end to end, I want to hear about it.
-- 📧 [6ashwanth007@gmail.com](mailto:6ashwanth007@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashwanth-senthilkumar/)
-- 🌐 [Portfolio](https://ashwanth.vercel.app/)
-- 💻 [LeetCode](https://leetcode.com/u/007ash/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwanth-senthilkumar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6ashwanth007@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/007ash/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashwanth.vercel.app/)
 
 --- 
