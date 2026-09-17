@@ -14,19 +14,6 @@ I like problems where the answer isn't obvious from the data — that's usually 
 ---
 
 ### 🚀 Tech Arsenal
-<p align="center">
-  Languages & Core : 
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,html,css,js,react&theme=dark" />
-  <br /><br />
-  ML/DL : 
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,mysql,mongodb,postgresql&theme=dark" />
-  <br><br>
-  Web/Full-Stack
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" />
-  <br><br>
-  Tools:
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,gcp,aws&theme=dark" />
-</p>
 
 <p align="center">
   <strong>Languages & Core</strong><br />
@@ -45,10 +32,11 @@ I like problems where the answer isn't obvious from the data — that's usually 
 ---
 
 ### 🧪 Currently Exploring 
-- Applied Machine Learning and Explainable AI (LIME & SHARP)
-- Full-stack systems for AI deployment  
-- MLOps fundamentals and model reliability  
-- Strengthening problem-solving and DSA consistency 
+
+- Applied ML and explainability (SHAP, LIME) — I want to understand *why* a model says what it says, not just that it's accurate
+- Full-stack deployment for ML — getting models out of notebooks and into things people can use
+- MLOps basics: reproducibility, versioning, not breaking things in production
+- Grinding DSA consistently — [LeetCode profile](https://leetcode.com/u/007ash/)
 <br>
 
 ---
@@ -78,5 +66,11 @@ I like problems where the answer isn't obvious from the data — that's usually 
 <p align="center">
 <img src="https://raw.githubusercontent.com/007ash/007ash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
+I'm open to **remote roles** and **freelance ML/full-stack work**. If you've got a problem involving messy data, forecasting, or building something ML-powered end to end, I want to hear about it.
+- 📧 [6ashwanth007@gmail.com](mailto:6ashwanth007@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashwanth-senthilkumar/)
+- 🌐 [Portfolio](https://ashwanth.vercel.app/)
+- 💻 [LeetCode](https://leetcode.com/u/007ash/)
 
 --- 
